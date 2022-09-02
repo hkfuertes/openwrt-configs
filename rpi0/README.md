@@ -1,7 +1,7 @@
 ## OpenWRT build files for Raspberry Pi 0 Family
 With this files the OpenWRT build will have:
 - Luci web interface
-- USB Gadget Ethernet assigned to lan by default
+- USB Gadget Ethernet assigned to `lan` by default
 - `relayd` installed with luci proto.
 
 > Defaults to `192.168.0.1` and Wifi is enabled by default with `openwrt` as SSID
