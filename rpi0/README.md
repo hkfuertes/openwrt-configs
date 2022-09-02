@@ -1,4 +1,4 @@
-## OpenWRT build files for Raspberry Pi 0 Family
+## OpenWRT build files for Raspberry Pi 0W Family
 With this files the OpenWRT build will have:
 - Luci web interface
 - USB Gadget Ethernet assigned to `lan` by default
